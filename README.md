@@ -69,7 +69,7 @@ $ docker pull loadimpact/k6
 
 https://github.com/dave/blast
 
-** Installation in Mac**
+**Installation in Mac**
 
 $ brew tap dave/blast
 $ brew install blast
