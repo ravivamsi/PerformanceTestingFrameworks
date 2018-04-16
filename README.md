@@ -1,4 +1,4 @@
-# PerformanceTestingFrameworks
+# Performance Testing Frameworks - Open Source
 
 This Repository has the details of all the Open Source Performance Testing Frameworks available
 
